@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bxa:home|Door43 (bxa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bxa|d43-bxa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bxa/archive/master.zip|d43-bxa.zip]]
+
+**Recent Changes**
+{{changes>ns = bxa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bxa|Ethnologue data]]
+
